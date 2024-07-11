@@ -17,7 +17,11 @@ web-api-contrib
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[endpoint_product_catalog](endpoint_product_catalog/) | 14.0.1.0.0 | [![SilvioC2C](https://github.com/SilvioC2C.png?size=30px)](https://github.com/SilvioC2C) [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) | Handle endpoints for product catalogs
 
 [//]: # (end addons)
 
