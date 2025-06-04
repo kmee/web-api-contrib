@@ -21,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[endpoint_product_catalog](endpoint_product_catalog/) | 14.0.1.1.0 | [![SilvioC2C](https://github.com/SilvioC2C.png?size=30px)](https://github.com/SilvioC2C) [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) | Handle endpoints for product catalogs
+[endpoint_product_catalog](endpoint_product_catalog/) | 14.0.1.1.0 | <a href='https://github.com/SilvioC2C'><img src='https://github.com/SilvioC2C.png' width='32' height='32' style='border-radius:50%;' alt='SilvioC2C'/></a> <a href='https://github.com/simahawk'><img src='https://github.com/simahawk.png' width='32' height='32' style='border-radius:50%;' alt='simahawk'/></a> | Handle endpoints for product catalogs
 
 [//]: # (end addons)
 
